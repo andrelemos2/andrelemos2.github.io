@@ -25,6 +25,7 @@ skills:
  - SQL
  - REST
  - GWT
+ - SmartGWT
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: http://andrelemos2.blogspot.com.br
@@ -84,7 +85,7 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: http://stackoverflow.com/users/7106721/andre-lemos
-   flairimageurl: https://avatars2.githubusercontent.com/u/9165519?v=3&s=140
+   flairimageurl: http://stackoverflow.com/users/flair/7106721.png
 
 #Mobile apps section is optional
 apps:
