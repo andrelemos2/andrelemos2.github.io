@@ -24,7 +24,7 @@ skills:
  - JPA
  - SQL
  - REST
- - Tech Architecture
+ - GWT
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: http://andrelemos2.blogspot.com.br
@@ -35,17 +35,17 @@ roles:
    start: 2016
    end: Ongoing
    employer: Reserva Facil S/A
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   description: The Reserva Facil simplifies the daily travel agent and corporate clients in job search, booking and issuing airline tickets, travel assistance and hospitality. agile and versatile tool, the RF offers advanced technology and ample resources, able to serve its customers in all its expectations. Quickly and safely, the user receives information about the best prices in real time, provided directly by air suppliers, hotels and travel assistance. Your system also has several features that help the corporate client travel management as multiple cost centers, travel policy, travel policy report, among others.
  - title: Java Developer
    start: 2010
    end: 2016
    employer: Openbravo Brazil (Disoft Solutions S/A)
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
+   description: Openbravo is the world leader in open source systems for retail, supporting medium and large enterprises around the world to manage, continuously, increasingly rapid transformations taking place in the retail world of today. Openbravo Commerce Suite, a multi-channel solution for retail, allows retailers to manage comprehensively your business and deliver a great shopping experience for customers in-store, in addition to enabling a business differentiation due to a technological platform for the highly flexible, scalable retail, already in the cloud and accessible from any mobile device.
  - title: Junior Java Developer
    start: 2008
    end: 2010
    employer: Vipware Informatica Ltda
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+   description: The VIPware came up with the goal of helping people not experts in technology, but who need it to perform their duties with excellence and prosperity. Simply understanding the needs, evaluating the available technological resources, and offering a range of services to achieve the common objectives pursued in relation to cost, schedule, and results.
 
 #Education is required
 education:
@@ -84,7 +84,7 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: http://stackoverflow.com/users/7106721/andre-lemos
-   flairimageurl: https://i.stack.imgur.com/RrRPI.jpg?s=64&g=1
+   flairimageurl: https://avatars2.githubusercontent.com/u/9165519?v=3&s=140
 
 #Mobile apps section is optional
 apps:
