@@ -71,6 +71,7 @@ coursera:
 #List of interesting Github repo/projects to include - optional
 github:
  - andrelemos2/learntoredux
+ - andrelemos2/angular-quickstart
  - andrelemos2/agendamento-financeiro
  - andrelemos2/restwebservices
  - andrelemos2/vote-no-restaurante
